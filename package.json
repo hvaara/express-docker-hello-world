@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hvaara/express-docker-hello-world.git"
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
